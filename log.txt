@@ -1,0 +1,8 @@
+04-21 09:14:15.601 15728 15728 E s.youtube.musi: Not starting debugger since process cannot load the jdwp agent.
+04-21 09:14:19.605 15728 15728 E YouTubeMusic: Trying to detachMediaView when it wasn't the most recent MediaView Setter
+04-21 09:14:20.911 15728 15778 E GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+04-21 09:14:21.439 15728 16032 E GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+04-21 09:14:24.902 15728 16036 E GoogleTagManager: Invalid macro: _gtm.loadEventEnabled
+04-21 09:17:10.682 15728 15785 I s.youtube.musi: IncrementDisableThreadFlip blocked for 6.368ms
+04-21 09:32:32.542   628   723 I libPowerHal: [perfNotifyAppState] pack:com.google.android.apps.youtube.music, pid:15728, STATE_DEAD
+04-21 09:32:32.547  1466  1496 E _V_VivoVibratorServiceImpl: onProcessDied pid: 15728,uid: 10207
